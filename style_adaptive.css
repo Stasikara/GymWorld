@@ -1,0 +1,2874 @@
+body {
+    height: 100%;
+    background-image: url(images/background_press.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+}
+
+
+/* intro */
+@media (max-width: 1400px) {
+ #intro .desc  {
+   height: 100px;
+   font-size: 15px;
+   padding-bottom: 10px;
+   width: 70%;
+line-height: 30px;
+float: left;
+margin-left: 10px;
+  }
+}
+@media (max-width: 580px) {
+ #intro .desc  {
+   height: 130px;
+  }
+}
+
+
+
+
+
+
+/* biceps_head */
+@media (max-width: 1400px) {
+ #head_container .biceps_head  {
+    width: 480px; 
+    font-size: 20px;
+    line-height: 100px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #head_container .biceps_head  {
+    width: 320px; 
+    font-size: 30px;
+    line-height: 100px;
+    
+  }
+}
+/* triceps_head */
+@media (max-width: 1400px) {
+ #head_container .triceps_head  {
+    width: 480px; 
+    font-size: 20px;
+    line-height: 100px;
+    float: right;
+  }
+}
+@media (max-width: 1000px) {
+ #head_container .triceps_head  {
+    width: 320px; 
+    font-size: 30px;
+    line-height: 100px;
+    float: right;
+  }
+}
+
+
+
+
+
+
+/* main */
+@media (max-width: 1400px) {
+ #container #main div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1400px) {
+ #container #main  {
+    width: 480px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+  
+}
+/* main 1000px */
+@media (max-width: 1000px) {
+ #container #main div  {
+    width: 140px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #main  {
+    width: 320px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #main img  {
+    margin-top: 60px;
+  }
+}
+
+
+
+
+
+
+/* main2 */
+@media (max-width: 1400px) {
+ #container #main2 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1400px) {
+ #container #main2  {
+    width: 480px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+/* main2 1000px */
+@media (max-width: 1000px) {
+ #container #main2 div {
+    width: 140px; 
+    font-size: 20px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #main2  {
+    width: 320px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #main2 img  {
+    margin-top: 60px;
+  }
+}
+
+
+
+/* biceps2 */
+@media (max-width: 1400px) {
+ #container #biceps2 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1400px) {
+ #container #biceps2  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container #biceps2 img  {
+   margin-top: 65px;
+   border-color: blanchedalmond;
+  }
+}
+/* biceps2 1000px */
+@media (max-width: 1000px) {
+ #container #biceps2 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container #biceps2  {
+    width: 320px; 
+    height: 410px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #biceps2 img  {
+    margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+/* triceps2 */
+@media (max-width: 1400px) {
+ #container #triceps2 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 55px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container #triceps2  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    float: right;
+  }
+}
+@media (max-width: 1400px) {
+ #container #triceps2 img  {
+   margin-top: 65px;
+   border-color: blanchedalmond;
+  }
+}
+/* triceps2 1000px */
+@media (max-width: 1000px) {
+ #container #triceps2 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container #triceps2  {
+    width: 320px; 
+    height: 410px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #triceps2 img  {
+    margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+/* biceps3 */
+@media (max-width: 1400px) {
+ #container #biceps3 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 50px;
+  }
+}
+@media (max-width: 1400px) {
+ #container #biceps3  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container #biceps3 .gif  {
+   margin-top: 65px;
+   border-color: blanchedalmond;
+  }
+}
+/* biceps3 1000px */
+@media (max-width: 1000px) {
+ #container #biceps3 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #biceps3  {
+    width: 320px; 
+    height: 410px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #biceps3 .gif  {
+    margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+/* triceps3 */
+@media (max-width: 1400px) {
+ #container #triceps3 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 55px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container #triceps3  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    float: right;
+  }
+}
+@media (max-width: 1400px) {
+ #container #triceps3 img  {
+   margin-top: 65px;
+   border-color: blanchedalmond;
+  }
+}
+/* triceps3 1000px */
+@media (max-width: 1000px) {
+ #container #triceps3 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container #triceps3  {
+    width: 320px; 
+    height: 410px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #triceps3 img  {
+    margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+/* biceps4 */
+@media (max-width: 1400px) {
+ #container #biceps4 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 50px;
+  }
+}
+@media (max-width: 1400px) {
+ #container #biceps4  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container #biceps4 .gif  {
+   margin-top: 65px;
+   border-color: blanchedalmond;
+  }
+}
+/* biceps4 1000px */
+@media (max-width: 1000px) {
+ #container #biceps4 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #biceps4  {
+    width: 320px; 
+    height: 410px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #biceps4 .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+
+/* triceps4 */
+@media (max-width: 1400px) {
+ #container #triceps4 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 55px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container #triceps4  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 20px;
+    float: right;
+  }
+}
+@media (max-width: 1400px) {
+ #container #triceps4 img  {
+   margin-top: 65px;
+   border-color: blanchedalmond;
+  }
+}
+/* triceps4 1000px */
+@media (max-width: 1000px) {
+ #container #triceps4 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container #triceps4  {
+    width: 320px; 
+    height: 410px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container #triceps4 img  {
+    margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+
+
+/* shoulders_head */
+@media (max-width: 1400px) {
+ #head_container2 .shoulders_head  {
+    width: 480px; 
+    font-size: 20px;
+    line-height: 100px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #head_container2 .shoulders_head  {
+    width: 320px; 
+    font-size: 30px;
+    line-height: 100px;
+    
+  }
+}
+/* forearm_head */
+@media (max-width: 1400px) {
+ #head_container2 .forearm_head  {
+    width: 480px; 
+    font-size: 20px;
+    line-height: 100px;
+    float: right;
+  }
+}
+@media (max-width: 1000px) {
+ #head_container2 .forearm_head  {
+    width: 320px; 
+    font-size: 30px;
+    line-height: 100px;
+    float: right;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* shoulders */
+@media (max-width: 1400px) {
+ #container2 #shoulders div  {
+    width: 280px; 
+    font-size: 15px;
+    line-height: 25px;
+   
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    
+  }
+  
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders .gif {
+    margin-top: 60px;
+    
+  }
+  
+}
+/* shoulders 1000px */
+@media (max-width: 1000px) {
+ #container2 #shoulders div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+/* forearm */
+@media (max-width: 1400px) {
+ #container2 #forearm div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm .gif {
+    margin-top: 65px;
+    
+  }
+}
+/* forearm 1000px */
+@media (max-width: 1000px) {
+ #container2 #forearm div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 35px;
+    margin-left: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+/* shoulders2 */
+@media (max-width: 1400px) {
+ #container2 #shoulders2 div  {
+    width: 280px; 
+    font-size: 15px;
+    line-height: 25px;
+   
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders2  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    
+  }
+  
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders2 .gif {
+    margin-top: 60px;
+    
+  }
+  
+}
+/* shoulders2 1000px */
+@media (max-width: 1000px) {
+ #container2 #shoulders2 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders2  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders2 .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+/* forearm2 */
+@media (max-width: 1400px) {
+ #container2 #forearm2 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm2  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm2 .gif {
+    margin-top: 65px;
+    
+  }
+}
+/* forearm2 1000px */
+@media (max-width: 1000px) {
+ #container2 #forearm2 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 35px;
+    margin-left: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm2  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm2 .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+/* shoulders3 */
+@media (max-width: 1400px) {
+ #container2 #shoulders3 div  {
+    width: 280px; 
+    font-size: 15px;
+    line-height: 25px;
+   margin-top: 40px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders3  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    
+  }
+  
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders3 .gif {
+    margin-top: 60px;
+    
+  }
+  
+}
+/* shoulders3 1000px */
+@media (max-width: 1000px) {
+ #container2 #shoulders3 div  {
+    width: 285px; 
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders3  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders3 .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+
+/* forearm3 */
+@media (max-width: 1400px) {
+ #container2 #forearm3 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 40px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm3  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm3 .gif {
+    margin-top: 65px;
+    
+  }
+}
+/* forearm3 1000px */
+@media (max-width: 1000px) {
+ #container2 #forearm3 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 35px;
+    margin-left: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm3  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm3 .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+
+/* shoulders4 */
+@media (max-width: 1400px) {
+ #container2 #shoulders4 div  {
+    width: 280px; 
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 30px;
+   
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders4  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    
+  }
+  
+}
+@media (max-width: 1400px) {
+ #container2 #shoulders4 .gif {
+    margin-top: 60px;
+    
+  }
+  
+}
+/* shoulders4 1000px */
+@media (max-width: 1000px) {
+ #container2 #shoulders4 div  {
+    width: 285px; 
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 10px;
+    float: left;
+    margin: 20px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders4  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #shoulders4 .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+
+/* forearm4 */
+@media (max-width: 1400px) {
+ #container2 #forearm4 div {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 60px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm4  {
+    width: 480px; 
+    height: 300px;
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+@media (max-width: 1400px) {
+ #container2 #forearm4 .gif {
+    margin-top: 65px;
+    
+  }
+}
+/* forearm4 1000px */
+@media (max-width: 1000px) {
+ #container2 #forearm4 div  {
+    width: 300px; 
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 35px;
+    margin-left: 20px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm4  {
+    width: 320px; 
+    height: 470px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1000px) {
+ #container2 #forearm4 .gif  {
+   margin-top: 20px;
+   margin-left: 80px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* recommendations 1400px */
+@media (max-width: 1400px) {
+ #container3 #recommendations {
+   
+    font-size: 100%;
+    line-height: 35px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container3 #recommendations .text {
+   
+   width: 400px;
+ 
+    
+  }
+}
+
+@media (max-width: 1400px) {
+ #container3 #recommendations #arnold {
+    width: 400px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container3 #recommendations #kevinlevrone {
+    width: 400px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container3 #recommendations #arnold2 {
+    width: 400px;
+    
+  }
+}
+
+
+/* recommendations 1800px */
+@media (min-width: 1800px) {
+ #container3 #recommendations #arnold {
+    width: 600px;
+    
+  }
+}
+@media (min-width: 1800px) {
+ #container3 #recommendations #kevinlevrone {
+    width: 600px;
+    
+  }
+}
+@media (min-width: 1800px) {
+ #container3 #recommendations #arnold-- #arnold2 {
+    width: 600px;
+    
+  }
+}
+@media (min-width: 1800px) {
+ #container3 #recommendations .text {
+   font-size: 200%;
+   width: 950px;
+line-height: 55px;
+  }
+}
+/* recommendations 1000px */
+@media (max-width: 1000px) {
+ #container3 #recommendations {
+   
+    font-size: 100%;
+    line-height: 28px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container3 #recommendations .text {
+   
+   width: 320px;
+  margin-right: 10px;
+    
+  }
+}
+
+@media (max-width: 1000px) {
+ #container3 #recommendations #arnold {
+    width: 250px;
+    margin-right: 30px;
+    margin-top: 100px;
+  }
+}
+@media (max-width: 1000px) {
+ #container3 #recommendations #kevinlevrone {
+    width: 250px;
+    margin-right: 30px;
+    margin-top: 100px;
+  }
+}
+@media (max-width: 1000px) {
+ #container3 #recommendations #arnold-- #arnold2 {
+   width: 250px;
+    margin-right: 30px;
+    margin-top: 100px;
+  }
+}
+
+
+
+
+
+
+/* facts */
+@media (max-width: 1400px) {
+ #container4 #facts {
+   
+    font-size: 100%;
+    line-height: 35px;
+    
+  }
+}
+@media (max-width: 1400px) {
+ #container4 #facts .text {
+   
+   width: 400px;
+   
+    
+  }
+}
+
+@media (max-width: 1400px) {
+ #container4 #facts #olimpia {
+    width: 400px;
+  }
+}
+@media (max-width: 1400px) {
+ #container4 #facts #kevinlevrone {
+    width: 400px;
+  }
+}
+@media (max-width: 1400px) {
+ #container3 #recommendations #arnold2 {
+    width: 400px;
+  }
+}
+@media (max-width: 1400px) {
+ #container4 #facts .decorative_facts{
+    width: 400px;
+  }
+}
+
+/* facts 1800px */
+@media (min-width: 1800px) {
+ #container4 #facts {
+   
+    font-size: 100%;
+    line-height: 55px;
+    
+  }
+}
+@media (min-width: 1800px) {
+ #container4 #facts .text {
+   
+   width: 800px;
+   font-size:280%;
+    line-height: 55px;
+  }
+}
+
+@media (min-width: 1800px) {
+ #container4 #facts #olimpia {
+    width: 800px;
+  }
+}
+@media (min-width: 1800px) {
+ #container4 #facts #kevinlevrone {
+    width: 800px;
+  }
+}
+@media (min-width: 1800px) {
+ #container3 #recommendations #arnold2 {
+    width: 800px;
+  }
+}
+@media (min-width: 1800px) {
+ #container4 #facts .decorative_facts{
+    width: 800px;
+    line-height: 120px;
+  }
+}
+@media (min-width: 1800px) {
+ #container4 #facts .the_end{
+    width: 750px;
+    height: 500px;
+    line-height: 500px;
+    font-size: 300%;
+  }
+}
+
+
+/* facts 1000px*/
+@media (max-width: 1000px) {
+ #container4 #facts {
+   
+    font-size: 100%;
+    line-height: 30px;
+    
+  }
+}
+@media (max-width: 1000px) {
+ #container4 #facts .text {
+   
+   width: 320px;
+   margin-right: 20px;
+    
+  }
+}
+
+@media (max-width: 1000px) {
+ #container4 #facts #olimpia {
+    width: 250px;
+    margin-top: 200px;
+  }
+}
+@media (max-width: 1000px) {
+ #container4 #facts #kevinlevrone {
+    width: 250px;
+  }
+}
+@media (max-width: 1000px) {
+ #container3 #recommendations #arnold2 {
+    width: 250px;
+  }
+}
+@media (max-width: 1000px) {
+ #container4 #facts .decorative_facts{
+    width: 250px;
+  }
+}
+@media (max-width: 1000px) {
+ #container4 #facts .decorative_facts {
+    width: 300px;
+  }
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+#header {
+    position: fixed;
+    width: 100%;
+    height: auto;
+    max-height: 60px;
+    text-align: center;
+    background-color: black;
+    border-radius: 20px 20px 0 0;
+    color: white;
+    margin-bottom: 0px;
+    line-height: 60px;
+    float: left;
+     font-family: "Oswald", sans-serif;
+}
+
+@media (max-width: 768px) {
+  #header {
+    flex-direction: column;
+  }
+}
+
+
+
+
+
+.home {
+    height: auto;
+    max-height: 150px;
+    float: left;
+    text-align: left;
+    margin-left: 10px;
+     font-size: 200%;
+}
+
+
+
+
+
+
+.return {
+    width: 10%;
+    height: auto;
+    max-height: 100px;
+    background-color:lab(0% 0 0 / 0.450);
+    border-radius: 40px;
+    margin-top: 80px;
+    margin-left: auto;
+    float: left;
+    text-align: center;
+    font-size: 150%;
+    line-height: 100px;
+    font-family: "Oswald", sans-serif;
+    color:white ;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+     animation: return 1s ease forwards;
+      transition: transform 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .return {
+    flex-direction: column;
+  }
+}
+
+
+.return:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+}
+
+@keyframes return {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+.desc {
+    width: 89.5%;
+    height: 100px;
+    background-color:lab(0% 0 0 / 0.450);
+    border-radius: 40px;
+    margin-top: 80px;
+    float: right;
+    text-align: center;
+    font-size: 180%;
+    line-height: 30px;
+    font-family: "Oswald", sans-serif;
+    color:white ;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.desc .text {
+   width: auto;
+   max-width: 1100px;
+    margin-top: 15px;
+     margin-left: 40px;
+}
+
+
+
+
+
+
+
+.biceps_head {
+     width: 49.5%;
+    height: 100px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    transition: transform 0.3s ease;
+    animation: biceps_head 1s ease forwards;
+    border: 2px solid rgba(238, 241, 40, 0.329);
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 200%;
+      box-shadow: -2px -2px 3px rgba(255, 252, 53, 0.74);
+
+}
+
+@keyframes biceps_head {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.triceps_head {
+       width: 49.5%;
+    height: 100px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+    float: right;
+    margin-top: 30px;
+    transition: transform 0.3s ease;
+    animation: triceps_head 1s ease forwards;
+    border: 2px solid rgba(223, 71, 71, 0.329);
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 200%;
+      box-shadow: -2px -2px 3px rgba(214, 88, 88, 0.74);
+}
+
+@keyframes triceps_head {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+#main {
+    width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    transition: transform 0.3s ease;
+    animation: main 1s ease forwards;
+    border: 1px solid rgba(238, 241, 40, 0.329);
+    
+    
+
+}
+
+@keyframes main {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#main img {
+    height:170px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#main div {
+     width: 410px;
+     line-height: 35px;
+     float: left;
+     text-align: left;
+     margin-top: 10px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 200%;
+     
+}
+
+#main:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+.biceps_underline {
+    text-decoration: underline;
+}
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+#biceps2 {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: biceps2 1s ease forwards;
+    border: 1px solid rgba(238, 241, 40, 0.329);
+
+    
+     
+}
+
+@keyframes biceps2 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+
+#biceps2 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#biceps2 .biceps2_text {
+         width: 470px;
+     line-height: 25px;
+     float: left;
+     text-align: left;
+     margin-top: 20px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+    
+     
+}
+
+
+
+
+.biceps2_underline {
+    text-decoration: underline;
+}
+
+#biceps2:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+#biceps3 {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left; 
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: biceps3 1s ease forwards;
+    border: 1px solid rgba(238, 241, 40, 0.329);
+
+}
+
+@keyframes biceps3 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+#biceps3 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#biceps3 div{
+         width: 470px;
+     line-height: 30px;
+     float: left;
+     text-align: left;
+     margin-top: 20px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.biceps3_underline {
+    text-decoration: underline;
+}
+
+#biceps3:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+#biceps4 {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: biceps4 1s ease forwards;
+    border: 1px solid rgba(238, 241, 40, 0.329);
+
+}
+
+@keyframes biceps4 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#biceps4 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+
+#biceps4 div{
+         width: 480px;
+     line-height: 25px;
+     float: left;
+     text-align: left;
+     margin-top: 20px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.biceps4_underline {
+    text-decoration: underline;
+}
+
+#biceps4:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+#main2 {
+    width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: right;
+    margin-top: 30px;
+    transition: transform 0.3s ease;
+    animation: main2 1s ease forwards;
+    border: 1px solid rgba(238, 241, 40, 0.329);
+    
+    
+
+}
+
+@keyframes main2 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#main2 img {
+    height:170px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#main2 div {
+     width: 490px;
+     line-height: 35px;
+     float: left;
+     text-align: left;
+     margin-top: 10px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 200%;
+     
+}
+
+#main2:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+.franc_underline {
+    text-decoration: underline;
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+#triceps2 {
+     opacity: 0;
+    animation: aside 1s ease forwards;
+    width: 49.5%;
+    height: 200px;
+    text-align: left;
+    float: right;
+    margin-left: 8px;
+    background-color:lab(0% 0 0 / 0.450) ;
+    margin-top:20px ;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    animation: triceps2 1s ease forwards;
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(223, 71, 71, 0.329);
+}
+
+
+@keyframes triceps2 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#triceps2 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#triceps2 div{
+         width: 480px;
+     line-height: 30px;
+     float: left;
+     text-align: left;
+     margin-top: 20px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.triceps2_underline {
+    text-decoration: underline;
+}
+
+#triceps2:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+#triceps3 {
+     opacity: 0;
+    animation: aside 1s ease forwards;
+    width: 49.5%;
+    height: 200px;
+    text-align: left;
+    float: right;
+    margin-left: 8px;
+    background-color:lab(0% 0 0 / 0.450) ;
+    margin-top:20px ;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    animation: triceps3 1s ease forwards;
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(223, 71, 71, 0.329);
+}
+
+
+@keyframes triceps3 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#triceps3 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#triceps3 div{
+         width: 480px;
+     line-height: 30px;
+     float: left;
+     text-align: left;
+     margin-top: 20px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.triceps3_underline {
+    text-decoration: underline;
+}
+
+#triceps3:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#triceps4 {
+     opacity: 0;
+    animation: aside 1s ease forwards;
+    width: 49.5%;
+    height: 200px;
+    text-align: left;
+    float: right;
+    margin-left: 8px;
+    background-color:lab(0% 0 0 / 0.450) ;
+    margin-top:20px ;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    animation: triceps4 1s ease forwards;
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(223, 71, 71, 0.329);
+}
+
+
+@keyframes triceps4 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#triceps4 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#triceps4 div{
+         width: 480px;
+     line-height: 30px;
+     float: left;
+     text-align: left;
+     margin-top: 20px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.triceps4_underline {
+    text-decoration: underline;
+}
+
+#triceps4:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.shoulders_head {
+     width: 49.5%;
+    height: 100px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    transition: transform 0.3s ease;
+    animation: shoulders_head 1s ease forwards;
+    border: 2px solid rgba(40, 241, 207, 0.329);
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 200%;
+      box-shadow: -2px -2px 3px rgba(40, 241, 207, 0.329);
+
+}
+
+@keyframes shoulders_head {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+.forearm_head {
+       width: 49.5%;
+    height: 100px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+    float: right;
+    margin-top: 30px;
+    transition: transform 0.3s ease;
+    animation:forearm_head 1s ease forwards;
+    border: 2px solid rgba(52, 252, 79, 0.329);
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 200%;
+      box-shadow: -2px -2px 3px rgba(52, 252, 79, 0.329);
+}
+
+@keyframes forearm_head {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#shoulders {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: shoulders 1s ease forwards;
+    border: 1px solid rgba(40, 241, 207, 0.329);
+
+}
+
+@keyframes shoulders {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#shoulders .gif {
+     height:165px ;
+    width: 160px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+
+#shoulders div{
+         width: 460px;
+     line-height: 25px;
+     float: left;
+     text-align: left;
+     margin-top: 15px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 110%;
+
+}
+
+.shoulders_underline {
+    text-decoration: underline;
+}
+
+#shoulders:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+#shoulders2 {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: shoulders2 1s ease forwards;
+    border: 1px solid rgba(40, 241, 207, 0.329);
+
+}
+
+@keyframes shoulders2 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#shoulders2 .gif {
+     height:165px ;
+    width: 160px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+
+#shoulders2 div{
+         width: 460px;
+     line-height: 25px;
+     float: left;
+     text-align: left;
+     margin-top: 10px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 120%;
+
+}
+
+.shoulders2_underline {
+    text-decoration: underline;
+}
+
+#shoulders2:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+#shoulders3 {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: shoulders3 1s ease forwards;
+    border: 1px solid rgba(40, 241, 207, 0.329);
+
+}
+
+@keyframes shoulders3 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#shoulders3 .gif {
+     height:165px ;
+    width: 160px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+
+#shoulders3 div{
+         width: 460px;
+     line-height: 25px;
+     float: left;
+     text-align: left;
+     margin-top: 12px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 130%;
+
+}
+
+.shoulders3_underline {
+    text-decoration: underline;
+}
+
+#shoulders3:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+#shoulders4 {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: shoulders4 1s ease forwards;
+    border: 1px solid rgba(40, 241, 207, 0.329);
+
+}
+
+@keyframes shoulders4 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#shoulders4 .gif {
+     height:165px ;
+    width: 160px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+
+#shoulders4 div{
+         width: 460px;
+     line-height: 28px;
+     float: left;
+     text-align: left;
+     margin-top: 12px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 135%;
+
+}
+
+.shoulders4_underline {
+    text-decoration: underline;
+}
+
+#shoulders4:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+#forearm {
+     opacity: 0;
+    animation: aside 1s ease forwards;
+    width: 49.5%;
+    height: 200px;
+    text-align: left;
+    float: right;
+    margin-left: 8px;
+    background-color:lab(0% 0 0 / 0.450) ;
+    margin-top:20px ;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    animation: forearm 1s ease forwards;
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(52, 252, 79, 0.329);
+}
+
+
+@keyframes forearm {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#forearm .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#forearm div{
+         width: 480px;
+     line-height: 30px;
+     float: left;
+     text-align: left;
+     margin-top: 10px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.forearm_underline {
+    text-decoration: underline;
+}
+
+#forearm:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#forearm2 {
+     opacity: 0;
+    animation: aside 1s ease forwards;
+    width: 49.5%;
+    height: 200px;
+    text-align: left;
+    float: right;
+    margin-left: 8px;
+    background-color:lab(0% 0 0 / 0.450) ;
+    margin-top:20px ;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    animation: forearm2 1s ease forwards;
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(52, 252, 79, 0.329);
+}
+
+
+@keyframes forearm2 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#forearm2 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#forearm2 div{
+         width: 480px;
+     line-height: 30px;
+     float: left;
+     text-align: left;
+     margin-top: 10px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.forearm2_underline {
+    text-decoration: underline;
+}
+
+#forearm2:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+#forearm3 {
+     opacity: 0;
+    animation: aside 1s ease forwards;
+    width: 49.5%;
+    height: 200px;
+    text-align: left;
+    float: right;
+    margin-left: 8px;
+    background-color:lab(0% 0 0 / 0.450) ;
+    margin-top:20px ;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    animation: forearm3 1s ease forwards;
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(52, 252, 79, 0.329);
+}
+
+
+@keyframes forearm3 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#forearm3 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#forearm3 div{
+         width: 480px;
+     line-height: 25px;
+     float: left;
+     text-align: left;
+     margin-top: 10px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.forearm3_underline {
+    text-decoration: underline;
+}
+
+#forearm3:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+#forearm4 {
+      width: 49.5%;
+    height: 200px ;
+    background-color: lab(0% 0 0 / 0.450);
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    float: right; 
+    margin-top: 20px;
+    transition: transform 0.3s ease;
+    animation: forearm4 1s ease forwards;
+    border: 1px solid rgba(52, 252, 79, 0.329);
+
+}
+
+@keyframes forearm4 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+#forearm4 .gif {
+     height:165px ;
+    width: 150px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#forearm4 div{
+         width: 470px;
+     line-height: 30px;
+     float: left;
+     text-align: left;
+     margin-top: 20px;
+     margin-left: 8px;
+     color: white;
+      font-family: "Oswald", sans-serif;
+      font-size: 150%;
+
+}
+
+.forearm4_underline {
+    text-decoration: underline;
+}
+
+#forearm4:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.line {
+    width: 100%;
+    height: 5px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 60px;
+    margin-bottom: 40px;
+    float: left;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px rgba(0, 255, 34, 0.39);
+}
+
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+#recommendations {
+    width: 100%;
+    height: auto;
+    background-color:lab(0% 0 0 / 0.450);
+    border-radius: 40px;
+    margin-top: 20px;
+    float: left;
+    text-align: left;
+    font-size: 150%;
+    line-height: 30px;
+    font-family: "Oswald", sans-serif;
+    color:white ;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+
+
+.recommendations_decorative {
+    width: 500px;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    font-size: 200%;
+    line-height: 45px;
+    
+}
+
+#recommendations #arnold {
+    width: 490px;
+    height: auto;
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.938);
+    transition: transform 0.3s ease;
+    animation: arnold 1s ease forwards;
+}
+
+
+
+
+
+@keyframes arnold {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+
+#recommendations #arnold:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+
+#recommendations #kevinlevrone {
+    width: 490px;
+    height: auto;
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+     border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.938);
+     transition: transform 0.3s ease;
+    animation: kevin 1s ease forwards;
+}
+
+
+@keyframes kevin {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#recommendations #kevinlevrone:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+
+
+#container3 #recommendations #arnold2 {
+    width: 490px;
+    height: auto;
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.938);
+      transition: transform 0.3s ease;
+    animation: arnold2 1s ease forwards;
+}
+
+
+@keyframes arnold2 {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+#recommendations #arnold2:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+
+#recommendations .text {
+    width: 600px;
+    height: auto;
+    float: left;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+   
+}
+
+/*#arnold {
+    width: 490px;
+    height: auto;
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+*/
+
+
+
+.text_decorative {
+    font-size: 125%;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.recommendations {
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+#facts {
+    width: 100%;
+    height: auto;
+    background-color:lab(0% 0 0 / 0.450);
+    border-radius: 40px;
+    margin-top: 20px;
+    float: right;
+    text-align: left;
+    font-size: 150%;
+    line-height: 30px;
+    font-family: "Oswald", sans-serif;
+    color:white ;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+
+.decorative_facts {
+    width: 600px;
+    height: auto;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-left: 5px;
+    font-size: 300%;
+    line-height: 70px;
+    
+}
+
+
+#facts .text {
+    width: 600px;
+    height: auto;
+    float: right;
+    margin-right: 100px;
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+   
+}
+
+
+.text_decorative{
+    font-size: 125%;
+    text-decoration: underline;
+    
+}
+
+
+
+ #olimpia {
+    width: 490px;
+    height: auto;
+    float: left;
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.938);
+    transition: transform 0.3s ease;
+    animation: olimpia 1s ease forwards;
+}
+
+@keyframes olimpia {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#olimpia:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+     
+}
+
+
+
+.the_end {
+   width: 600px;
+    height: 150px;
+    background-color:lab(0% 0 0 / 0.450);
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    float: left;
+    text-align: center;
+    font-size: 150%;
+    line-height: 150px;
+    font-family: "Oswald", sans-serif;
+    color:white ;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+     animation: the_end 1s ease forwards;
+      transition: transform 0.3s ease;}
+
+
+
+.the_end:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+}
+
+@keyframes the_end {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+
+
+
+
+
+.return_fixed {
+    position: fixed;
+    width: 50px;
+    border: 1px solid white;
+    height: 50px;
+    border-radius: 50px;
+    float: left;
+    bottom: 20px;
+    right: 20px;
+    background-color: lab(21.25% 0 0 / 0.45);
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    line-height: 55px;
+    animation: return_fixed 1s ease forwards;
+    transition: transform 0.3s ease;
+}
+ .return_fixed:hover {
+     transform:translateY(-5px);
+     box-shadow: 0 4px 10px 2px rgba(255, 255, 255, 0.267);
+}
+@keyframes return_fixed {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+
+
+
+
+
+
+#footer {
+     width: 100%;
+    height: 60px;
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    margin-top: auto;
+    line-height: 60px;
+    border-top: 4px solid silver;
+    float:left;
+     font-family: "Oswald", sans-serif;
+}
+#contacts {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    background-color: rgb(75, 75, 75);
+    color: white;
+    line-height: 30px;
+    float: left;
+     font-family: "Oswald", sans-serif;
+}
+
+#contacts:hover {
+    background-color: rgb(105, 105, 105);
+}
+
+
