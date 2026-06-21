@@ -57,11 +57,125 @@
 </div>
 
 
-<div id="box_menu">
-    <div class="box"><div class="menu_item1">Рассчитать 1RM</div></div>
-    <div class="box"><div class="menu_item2">Калькулятор калорий</div></div>
-    <div class="box"><div class="menu_item3">BMI</div></div>
+<div id="box_menu"> 
+    <div class="box" id="box1"><div class="menu_item1">Рассчитать 1RM</div></div>
+    <div class="box" id="box2"><div class="menu_item2">Калькулятор калорий</div></div>
+    <div class="box" id="box3"><div class="menu_item3">BMI</div></div>
 </div>
+
+
+
+
+
+    <div id="container_menu">
+      <button class="closeButton">✖</button>
+
+      <input type="number" id="weight" placeholder=" Введите вес">
+      <input type="number" id="reps" placeholder=" Введите число повторений">
+      <button onclick="calculateOneRepMax()">Рассчитать</button>
+      <input type="number" id="resultat" placeholder=" Результат" readonly>
+  </div>
+
+
+
+
+<div id="container_menu2">
+
+  <div class="close_button_box">
+       <button class="closeButton2">✖</button>
+  </div>
+       <div class="sex_">
+       <label class="male_label">Мужской
+          <input type="radio" id="male" name="sex" value="male"> 
+      </label>
+
+      <label class="female_label">Женский
+         <input type="radio" id="female" name="sex" value="female">
+      </label>
+     </div>
+
+      <input type="number" id="age" placeholder=" Введите возраст (лет)">
+      <input type="number" id="weight2" placeholder=" Введите вес (кг)">
+      <input type="number" id="height" placeholder=" Введите рост (см)">
+      
+      <p class="openButton2"> Уровень активности:</p>
+      
+
+<div id="box_activities">
+    
+
+     
+
+    <div id="activities">
+      <button class="closeButton2_activities">✖</button>
+    <label class="sitting_life_label">
+      <input type="radio" class="sitting_life" name="activity" value="1.2">Сидячий образ жизни
+      </label>
+
+      <label class="lite_active_label">
+      <input type="radio" class="lite_active" name="activity" value="1.375">Легкая активность (тренировки 1-3 раза в неделю)
+      </label>
+
+      <label class="average_active_label">
+      <input type="radio" class="average_active" name="activity" value="1.55">Средняя активность (3-5 раз в неделю)
+      </label>
+
+      <label class="highly_active_label">
+      <input type="radio" class="highly_active" name="activity" value="1.725">Высокая активность (6-7 раз)
+      </label>
+
+      <label class="extrime_active_label">
+      <input type="radio" class="extrime_active" name="activity" value="1.9">Экстремальная активность (спортсмены, тяжелый труд)
+      </label>
+    </div>
+
+</div>
+
+<p id="target">Цель: </p>
+
+
+ 
+
+    <div id="target_box">
+      
+      <button class="closeButton_target">✖</button>
+      
+    <label class="mass_support_label">
+      <input type="radio" class="mass_support" name="target" value="1">Поддержание веса
+      </label>
+
+      <label class="weight_loss_label">
+      <input type="radio" class="weight_loss" name="target" value="0.85">Похудение
+      </label>
+
+      <label class="muscle_mass_label">
+      <input type="radio" class="muscle_mass" name="target" value="1.15">Набор массы
+      </label>
+
+    
+    </div>
+
+
+
+      <button onclick="calculateBMR()" class="resultat_button">Рассчитать</button>
+        <input type="number" id="resultat2" placeholder=" Результат" readonly>
+
+
+  </div>
+
+<div class="container_BMI">
+  <div class="close_button_box_BMI">
+       <button class="closeButton_BMI">✖</button></div>
+ 
+  <div class="inputs_BMI">
+   <input type="number" id="weight_BMI" placeholder="Введите вес(кг)">
+   <input type="number" id="height_BMI" placeholder="Введите рост(см)">
+  </div>
+   <button onclick="calculateBMI()" class="resultat_BMI_button">Рассчитать</button>
+    <input type="number" id="resultat_BMI" placeholder=" Результат" readonly>
+    <input type="text" id="resultat_BMI2" placeholder="" readonly>
+</div>
+
 
 
 
