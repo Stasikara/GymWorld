@@ -1145,7 +1145,7 @@ body {
 
 #container2 .title{
     font-family: "Oswald", sans-serif;
-    font-size: 400%;
+    font-size: 250%;
     color: white;
    text-align: left;
     float: left;
@@ -1155,7 +1155,7 @@ body {
 
 #container2 .title2 {
     font-family: "Oswald", sans-serif;
-    font-size: 250%;
+    font-size: 200%;
     color: white;
     text-align: left;
     float: left;
@@ -1174,7 +1174,7 @@ body {
     margin-top: 5%;
     margin-bottom: 5%;
     font-family: "Oswald", sans-serif;
-    font-size: 250%;
+    font-size: 150%;
     color: white;
     text-align: center;
     line-height: 40px;

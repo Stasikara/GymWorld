@@ -149,3 +149,5 @@ openButton_BMI.addEventListener("click", () => {
 closeButton_BMI.addEventListener("click", () => {
     container_BMI.style.display = "none";
 });
+
+
