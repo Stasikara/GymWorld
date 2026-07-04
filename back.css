@@ -4,9 +4,15 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+
+  
 }
 
-
+#mini {
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+}
 
 
 
@@ -84,9 +90,11 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.5);
 }
 #desc .text {
-   width: 1100px;
+   width: 90%;
     margin-top: 15px;
-     margin-left: 40px;
+     text-align: center;
+     margin-left: 5%;
+     font-size: 90%;
 }
 
 @media (max-width: 1520px) {
@@ -139,7 +147,7 @@ height: 150px;
 #back1 div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
    
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: left;
@@ -147,7 +155,7 @@ height: 150px;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 180%;     
+      font-size: 140%;     
 }
 #back1:hover {
      transform:translateY(-5px);
@@ -293,7 +301,7 @@ width: 50%;
 #back2 div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
    
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: left;
@@ -301,7 +309,7 @@ width: 50%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 180%;     
+      font-size: 140%;     
 }
 #back2:hover {
      transform:translateY(-5px);
@@ -394,7 +402,7 @@ height:600px ;
 #back3 div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
    
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: left;
@@ -402,7 +410,7 @@ height:600px ;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 180%;     
+      font-size: 140%;     
 }
 #back3:hover {
      transform:translateY(-5px);
@@ -495,7 +503,7 @@ height:600px ;
 #back4 div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
    
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: left;
@@ -503,7 +511,7 @@ height:600px ;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 180%;     
+      font-size: 140%;     
 }
 #back4:hover {
      transform:translateY(-5px);
@@ -596,7 +604,7 @@ height:600px ;
 #back5 div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
    
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: left;
@@ -604,7 +612,7 @@ height:600px ;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 180%;     
+      font-size: 140%;     
 }
 #back5:hover {
      transform:translateY(-5px);
@@ -697,7 +705,7 @@ height:600px ;
 #back6 div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
    
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: left;
@@ -705,7 +713,7 @@ height:600px ;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 180%;     
+      font-size: 140%;     
 }
 #back6:hover {
      transform:translateY(-5px);
@@ -798,7 +806,7 @@ height:600px ;
 #back7 div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
    
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: left;
@@ -806,7 +814,7 @@ height:600px ;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 140%;     
 }
 #back7:hover {
      transform:translateY(-5px);
@@ -893,7 +901,7 @@ height:600px ;
 }
 #arrow div {
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
-     width: 550px;
+     width: 70%;
      line-height: 35px;
      float: left;
      text-align: center;
@@ -901,7 +909,7 @@ height:600px ;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 140%;     
 }
 
 
@@ -1011,13 +1019,13 @@ height:600px ;
 
 }
 #recommendations .title {
-    width: 600px;
+    width: 80%;
     color: rgb(255, 255, 255);
-    font-size: 300%;
+    font-size: 250%;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 60px;
-    margin-left: 30px ;
+    margin-left: 8% ;
     float: left;
     line-height: 50px;
     font-weight: bold;
@@ -1025,7 +1033,7 @@ height:600px ;
     text-shadow: 0 0 2px rgb(75, 73, 0);
 }
 #recommendations .text {
-    width: 600px;
+    width: 90%;
     margin-left: 30px; 
     text-align: left;
     line-height: 35px;
@@ -1036,7 +1044,7 @@ height:600px ;
 }
 #recommendations .text_decorative {
     text-decoration: underline;
-    font-size: 160%;
+    font-size: 130%;
 }
 @media (max-width: 1300px) {
 #recommendations .title   {
@@ -1072,13 +1080,13 @@ width: 90%;
 
 }
 #facts .title {
-    width: 600px;
+    width: 80%;
     color: rgb(255, 255, 255);
-    font-size: 300%;
+    font-size: 250%;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 60px;
-    margin-left: 30px ;
+    margin-left: 8% ;
     float: left;
     line-height: 50px;
     font-weight: bold;
@@ -1086,7 +1094,7 @@ width: 90%;
     text-shadow: 0 0 2px rgb(75, 73, 0);
 }
 #facts .text {
-    width: 600px;
+    width: 90%;
     margin-left: 30px; 
     text-align: left;
     line-height: 35px;
@@ -1097,7 +1105,7 @@ width: 90%;
 }
 #facts .text_decorative {
     text-decoration: underline;
-    font-size: 160%;
+    font-size: 130%;
 }
 @media (max-width: 1300px) {
 #facts .title   {
@@ -1119,16 +1127,16 @@ width: 90%;
 .the_end {
    
    width: 49.5%;
-    height: 328px;
+    height: 265px;
     background-color:lab(0% 0 0 / 0.450);
     border-radius: 0px 0px 40px 0px;
-    margin-top: -370px;
+    margin-top: -307px;
     margin-left: 80px;
     margin-bottom: 40px;
     float: right;
     text-align: center;
     font-size: 250%;
-    line-height: 328px;
+    line-height: 265px;
     font-family: "Oswald", sans-serif;
     color:white ;
     border: 1px solid rgba(255, 255, 255, 0.5);

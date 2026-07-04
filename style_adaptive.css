@@ -9,6 +9,22 @@ body {
 }
 
 
+
+#mini {
+   width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+#mini_2 {
+  width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+
+
+
 /* intro */
 @media (max-width: 1400px) {
  #intro .desc  {
@@ -1349,9 +1365,10 @@ line-height: 55px;
 }
 .desc .text {
    width: auto;
-   max-width: 1100px;
+   max-width: 90%;
     margin-top: 15px;
-     margin-left: 40px;
+     margin-left: 5%;
+     font-size: 90%;
 }
 
 
@@ -1453,15 +1470,15 @@ line-height: 55px;
 }
 
 #main div {
-     width: 410px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 8%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;
+      font-size: 150%;
      
 }
 
@@ -1515,11 +1532,11 @@ line-height: 55px;
 }
 
 #biceps2 .biceps2_text {
-         width: 470px;
+         width: 70%;
      line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 20px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -1577,11 +1594,11 @@ line-height: 55px;
 }
 
 #biceps3 div{
-         width: 470px;
+         width: 70%;
      line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 20px;
+     margin-top: 1%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -1637,11 +1654,11 @@ line-height: 55px;
 
 
 #biceps4 div{
-         width: 480px;
+         width: 70%;
      line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 20px;
+     margin-top: 4%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -1699,15 +1716,15 @@ line-height: 55px;
 }
 
 #main2 div {
-     width: 490px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 5%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;
+      font-size: 150%;
      
 }
 
@@ -1761,11 +1778,11 @@ line-height: 55px;
 }
 
 #triceps2 div{
-         width: 480px;
-     line-height: 30px;
+         width: 70%;
+     line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 20px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -1822,11 +1839,11 @@ line-height: 55px;
 }
 
 #triceps3 div{
-         width: 480px;
+         width: 70%;
      line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 20px;
+     margin-top: 1.5%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -1884,11 +1901,11 @@ line-height: 55px;
 }
 
 #triceps4 div{
-         width: 480px;
+         width: 70%;
      line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 20px;
+     margin-top: 3%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -2004,11 +2021,11 @@ line-height: 55px;
 
 
 #shoulders div{
-         width: 460px;
-     line-height: 25px;
+         width: 65%;
+     line-height: 22px;
      float: left;
      text-align: left;
-     margin-top: 15px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -2070,11 +2087,11 @@ line-height: 55px;
 
 
 #shoulders2 div{
-         width: 460px;
-     line-height: 25px;
+         width: 69%;
+     line-height: 22px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -2135,11 +2152,11 @@ line-height: 55px;
 
 
 #shoulders3 div{
-         width: 460px;
+         width: 69%;
      line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 12px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -2200,11 +2217,11 @@ line-height: 55px;
 
 
 #shoulders4 div{
-         width: 460px;
-     line-height: 28px;
+         width: 69%;
+     line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 12px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
@@ -2268,15 +2285,15 @@ line-height: 55px;
 }
 
 #forearm div{
-         width: 480px;
-     line-height: 30px;
+     width: 69%;
+     line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 150%;
+      font-size: 140%;
 
 }
 
@@ -2330,15 +2347,15 @@ line-height: 55px;
 }
 
 #forearm2 div{
-         width: 480px;
-     line-height: 30px;
+         width: 69%;
+     line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 150%;
+      font-size: 140%;
 
 }
 
@@ -2397,15 +2414,15 @@ line-height: 55px;
 }
 
 #forearm3 div{
-         width: 480px;
+         width: 69%;
      line-height: 25px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 2%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 150%;
+      font-size: 140%;
 
 }
 
@@ -2460,15 +2477,15 @@ line-height: 55px;
 }
 
 #forearm4 div{
-         width: 470px;
-     line-height: 30px;
+         width: 69%;
+     line-height: 23px;
      float: left;
      text-align: left;
-     margin-top: 20px;
+     margin-top: 4.5%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 150%;
+      font-size: 140%;
 
 }
 
@@ -2523,19 +2540,19 @@ line-height: 55px;
 
 
 .recommendations_decorative {
-    width: 500px;
+    width: 40%;
     height: auto;
     float: left;
-    margin-top: 20px;
+    margin-top: 5%;
     margin-bottom: 10px;
-    margin-left: 40px;
+    margin-left: 6%;
     font-size: 200%;
     line-height: 45px;
     
 }
 
 #recommendations #arnold {
-    width: 490px;
+    width: 35%;
     height: auto;
     float: right;
     margin-right: 100px;
@@ -2572,7 +2589,7 @@ line-height: 55px;
 
 
 #recommendations #kevinlevrone {
-    width: 490px;
+    width: 35%;
     height: auto;
     float: right;
     margin-right: 100px;
@@ -2605,7 +2622,7 @@ line-height: 55px;
 
 
 #container3 #recommendations #arnold2 {
-    width: 490px;
+    width: 35%;
     height: auto;
     float: right;
     margin-right: 100px;
@@ -2639,12 +2656,12 @@ line-height: 55px;
 
 
 #recommendations .text {
-    width: 600px;
+    width: 40%;
     height: auto;
     float: left;
     margin-right: 100px;
-    margin-top: 20px;
-    margin-left: 40px;
+    margin-top: 4%;
+    margin-left: 6%;
     margin-bottom: 20px;
    
 }
@@ -2703,20 +2720,18 @@ line-height: 55px;
 
 
 .decorative_facts {
-    width: 600px;
+    width: 100%;
     height: auto;
     float: right;
-    margin-top: 20px;
-    margin-bottom: 100px;
-    margin-left: 5px;
-    font-size: 300%;
-    line-height: 70px;
+    margin-bottom: 20%;
+    font-size: 250%;
+    line-height: 50px;
     
 }
 
 
 #facts .text {
-    width: 600px;
+    width: 35%;
     height: auto;
     float: right;
     margin-right: 100px;
@@ -2736,7 +2751,7 @@ line-height: 55px;
 
 
  #olimpia {
-    width: 490px;
+    width: 35%;
     height: auto;
     float: left;
     margin-left: 50px;
@@ -2767,16 +2782,16 @@ line-height: 55px;
 
 
 .the_end {
-   width: 600px;
+   width: 35%;
     height: 150px;
     background-color:lab(0% 0 0 / 0.450);
     border-radius: 40px;
     margin-top: 20px;
-    margin-left: 80px;
+    margin-left: 50px;
     margin-bottom: 50px;
     float: left;
     text-align: center;
-    font-size: 150%;
+    font-size: 120%;
     line-height: 150px;
     font-family: "Oswald", sans-serif;
     color:white ;

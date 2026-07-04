@@ -9,6 +9,12 @@ body {
 }
 
 
+#mini {
+   width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
 
 #header {
     position: fixed;
@@ -82,7 +88,8 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.5);
 }
 #desc .text {
-   width: 1100px;
+   width: 90%;
+   font-size: 90%;
     margin-top: 15px;
      margin-left: 40px;
 }
@@ -170,15 +177,15 @@ padding-bottom: 2%;
     border: 2px solid black;
 }
 #press1 div {
-     width: 450px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%; 
+      font-size: 150%; 
 }
 #press1:hover {
      transform:translateY(-5px);
@@ -271,15 +278,15 @@ margin-right: 10px;
     border: 2px solid black;
 }
 #press2 div {
-     width: 450px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%; 
+      font-size: 150%; 
 }
 #press2:hover {
      transform:translateY(-5px);
@@ -368,15 +375,15 @@ margin-right: 10px;
     border: 2px solid black;
 }
 #press3 div {
-     width: 450px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%; 
+      font-size: 150%; 
 }
 #press3:hover {
      transform:translateY(-5px);
@@ -467,15 +474,15 @@ margin-right: 10px;
     border: 2px solid black;
 }
 #press4 div {
-     width: 450px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 8%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%; 
+      font-size: 150%; 
 }
 #press4:hover {
      transform:translateY(-5px);
@@ -564,15 +571,15 @@ margin-right: 10px;
     border: 2px solid black;
 }
 #press5 div {
-     width: 450px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 8%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%; 
+      font-size: 150%; 
 }
 #press5:hover {
      transform:translateY(-5px);
@@ -661,15 +668,15 @@ margin-right: 10px;
     border: 2px solid black;
 }
 #press6 div {
-     width: 450px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%; 
+      font-size: 150%; 
 }
 #press6:hover {
      transform:translateY(-5px);
@@ -773,7 +780,7 @@ margin-right: 10px;
     width: 500px;
     height: auto;
     float: left;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 10px;
     margin-left: 40px;
     font-size: 200%;
@@ -782,7 +789,7 @@ margin-right: 10px;
 }
 
 #recommendations #arnold {
-    width: 490px;
+    width: 35%;
     height: auto;
     float: right;
     margin-right: 100px;
@@ -820,7 +827,7 @@ margin-right: 10px;
 
 
 #recommendations #arnold2 {
-    width: 490px;
+    width: 35%;
     height: auto;
     float: right;
     margin-right: 100px;
@@ -854,7 +861,7 @@ margin-right: 10px;
 
 
 #recommendations #kevin {
-    width: 490px;
+    width: 35%;
     height: auto;
     float: right;
     margin-right: 100px;
@@ -888,11 +895,11 @@ margin-right: 10px;
 
 
 #recommendations .text {
-    width: 600px;
+    width: 40%;
     height: auto;
     float: left;
     margin-right: 100px;
-    margin-top: 20px;
+    margin-top: 60px;
     margin-left: 40px;
     margin-bottom: 20px;
    
@@ -952,23 +959,23 @@ margin-right: 10px;
     border: 1px solid rgba(255, 255, 255, 0.5);
 }
 .decorative_facts {
-    width: 600px;
+    width: 100%;
     height: auto;
     float: right;
     margin-top: 20px;
     margin-bottom: 100px;
-    margin-left: 5px;
-    font-size: 300%;
-    line-height: 70px;
+    margin-left: 0;
+    font-size: 250%;
+    line-height: 55px;
     
 }
 #facts .text {
-    width: 600px;
+    width: 55%;
     height: auto;
     float: right;
     margin-right: 100px;
     margin-top: 80px;
-    margin-left: 40px;
+    margin-left: 0;
     margin-bottom: 20px;
    
 }
@@ -978,7 +985,7 @@ margin-right: 10px;
     
 }
  #olimpia {
-    width: 490px;
+    width: 25%;
     height: auto;
     float: left;
     margin-left: 50px;
@@ -1006,12 +1013,12 @@ margin-right: 10px;
 
      
 .the_end {
-   width: 1170px;
+   width: 90%;
     height: 150px;
     background-color:lab(0% 0 0 / 0.450);
     border-radius: 40px;
     margin-top: 20px;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-bottom: 50px;
     float: left;
     text-align: center;

@@ -8,7 +8,11 @@ body {
     
 }
 
-
+#mini {
+   width: 80%;
+    float: left;
+    margin-left: 10%;
+}
 
 
 
@@ -86,9 +90,10 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.5);
 }
 #desc .text {
-   width: 1100px;
-margin-top: 1%;
+   width: 90%;
+margin-top: 1.8%;
 margin-left: 5%;
+font-size: 90%;
 }
 @media (max-width: 1350px) {
 #desc  {
@@ -114,7 +119,6 @@ height: auto;
     border-radius: 10px;
     float: left;
     margin-top: 30px;
-    
     transition: transform 0.3s ease;
     animation: chest1 1s ease forwards;
     border: 1px solid rgba(238, 241, 40, 0.329);
@@ -139,14 +143,14 @@ height: auto;
 }
 #chest1 div {
      width: 410px;
-     line-height: 35px;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest1:hover {
      transform:translateY(-5px);
@@ -235,14 +239,14 @@ margin-bottom: 2%;
 }
 #chest2 div {
      width: 410px;
-     line-height: 35px;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest2:hover {
      transform:translateY(-5px);
@@ -330,15 +334,15 @@ margin-bottom: 2%;
     border: 2px solid black;
 }
 #chest3 div {
-     width: 480px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 4%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest3:hover {
      transform:translateY(-5px);
@@ -424,15 +428,15 @@ margin-bottom: 2%;
     border: 2px solid black;
 }
 #chest4 div {
-     width: 485px;
+     width: 70%;
      line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 4%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest4:hover {
      transform:translateY(-5px);
@@ -520,15 +524,15 @@ margin-bottom: 2%;
     border: 2px solid black;
 }
 #chest5 div {
-     width: 485px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest5:hover {
      transform:translateY(-5px);
@@ -614,15 +618,15 @@ margin-bottom: 2%;
     border: 2px solid black;
 }
 #chest6 div {
-     width: 485px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 6%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest6:hover {
      transform:translateY(-5px);
@@ -711,15 +715,15 @@ margin-bottom: 2%;
     border: 2px solid black;
 }
 #chest7 div {
-     width: 485px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 7%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest7:hover {
      transform:translateY(-5px);
@@ -797,7 +801,7 @@ margin-bottom: 2%;
 }
 #chest8 img {
     height:170px ;
-    width: 170px;
+    width: 150px;
     float: left;
     margin-top: 15px;
     margin-left: 10px;
@@ -805,15 +809,15 @@ margin-bottom: 2%;
     border: 2px solid black;
 }
 #chest8 div {
-     width: 460px;
-     line-height: 35px;
+     width: 70%;
+     line-height: 30px;
      float: left;
      text-align: left;
-     margin-top: 10px;
+     margin-top: 5%;
      margin-left: 8px;
      color: white;
       font-family: "Oswald", sans-serif;
-      font-size: 200%;     
+      font-size: 150%;     
 }
 #chest8:hover {
      transform:translateY(-5px);
@@ -914,7 +918,7 @@ margin-bottom: 2%;
 #recommendations .title {
     width: 80%;
     color: rgb(255, 255, 255);
-    font-size: 300%;
+    font-size: 250%;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 60px;
@@ -937,7 +941,7 @@ margin-bottom: 2%;
 }
 #recommendations .text_decorative {
     text-decoration: underline;
-    font-size: 160%;
+    font-size: 120%;
 }
 
 
@@ -952,7 +956,7 @@ margin-bottom: 2%;
     background-color: lab(0% 0 0 / 0.450);
     border-radius: 0px 40px 0 0;
     float: right;
-    margin-bottom: 40px;
+    margin-bottom: 13px;
     padding-bottom: 30px;
     border: 1px solid rgba(255, 255, 255, 0.5);
     font-family: "Oswald", sans-serif;
@@ -965,7 +969,7 @@ margin-bottom: 2%;
 #facts .title {
     width: 80%;
     color: rgb(255, 255, 255);
-    font-size: 300%;
+    font-size: 250%;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 60px;
@@ -988,7 +992,7 @@ margin-bottom: 2%;
 }
 #facts .text_decorative {
     text-decoration: underline;
-    font-size: 160%;
+    font-size: 120%;
 }
 
 
@@ -999,16 +1003,15 @@ margin-bottom: 2%;
 .the_end {
    
    width: 49.5%;
-    height: 230px;
+    
     background-color:lab(0% 0 0 / 0.450);
     border-radius: 0px 0px 40px 0px;
-    margin-top: -270px;
-    margin-left: 80px;
-    margin-bottom: 40px;
+    
+    margin-top: 0;
     float: right;
     text-align: center;
     font-size: 250%;
-    line-height: 230px;
+    line-height: 415px;
     font-family: "Oswald", sans-serif;
     color:white ;
     border: 1px solid rgba(255, 255, 255, 0.5);
